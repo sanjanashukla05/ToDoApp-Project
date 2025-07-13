@@ -4,7 +4,6 @@ This is a simple to-do list app built with Python and Tkinter. It’s a basic de
 
 You can add new tasks, delete the ones you’ve completed, edit existing ones, or even clear the whole list if you’re starting fresh. There’s also a feature to select a task so you can quickly load it back into the entry box for editing.
 
-
 It’s beginner-friendly, doesn’t need any external libraries, and is a fun little project if you're learning Python or just want a personal task manager.
 
 ## Features
